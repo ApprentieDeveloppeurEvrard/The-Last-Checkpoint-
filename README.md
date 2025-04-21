@@ -14,7 +14,7 @@ Voici quelques-unes des compétences clés que j’ai développées au cours du 
 - **Back-end :** Node.js, Express, MongoDB
 - **Gestion de projet :** Méthodologie Agile, Trello, Git/GitHub
 - **Soft Skills :** Communication, travail en équipe, résolution de problèmes
-- **Création de projet réel :** Réalisation d'une application complète de mise en relation client-prestataire
+- **Création de projet réel :** Réalisation d'une application complète de e-commerce
 
 ---
 
